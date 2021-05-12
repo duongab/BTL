@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quanlybansach", "Quanlybansach.csproj", "{73F5F8C7-5C38-445B-AC21-6D42F877CF52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F5F8C7-5C38-445B-AC21-6D42F877CF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F5F8C7-5C38-445B-AC21-6D42F877CF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F5F8C7-5C38-445B-AC21-6D42F877CF52}.Debug|x86.ActiveCfg = Debug|x86
+		{73F5F8C7-5C38-445B-AC21-6D42F877CF52}.Debug|x86.Build.0 = Debug|x86
+		{73F5F8C7-5C38-445B-AC21-6D42F877CF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F5F8C7-5C38-445B-AC21-6D42F877CF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F5F8C7-5C38-445B-AC21-6D42F877CF52}.Release|x86.ActiveCfg = Release|x86
+		{73F5F8C7-5C38-445B-AC21-6D42F877CF52}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A0BF42-D73A-468C-B862-A45148B88B1A}
+	EndGlobalSection
+EndGlobal
